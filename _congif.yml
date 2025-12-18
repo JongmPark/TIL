@@ -1,0 +1,14 @@
+title: "TIL"
+description: "Today I Learned – 데이터 사이언스 & 개발 학습 기록"
+baseurl: "https://github.com/JongmPark/TIL"      # 리포 이름이 username.github.io가 아니면 나중에 /til로 수정 가능
+url: "https://JongmPark.github.io"
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  til:
+    output: true
+    permalink: /til/:name/
